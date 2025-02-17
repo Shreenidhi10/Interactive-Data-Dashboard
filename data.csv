@@ -1,0 +1,157 @@
+category,subcategory,value,date
+Electronics,Smartphones,15000,2023-01-01
+Electronics,Laptops,12000,2023-01-02
+Electronics,Smartwatches,5000,2023-01-03
+Home & Kitchen,Furniture,8000,2023-01-01
+Home & Kitchen,Appliances,9500,2023-01-02
+Home & Kitchen,Decor,4000,2023-01-03
+Fashion,Clothing,20000,2023-01-01
+Fashion,Footwear,10000,2023-01-02
+Fashion,Accessories,6000,2023-01-03
+Electronics,Smartphones,16000,2023-01-04
+Electronics,Laptops,11000,2023-01-04
+Fashion,Clothing,21000,2023-01-04
+Fashion,Footwear,9000,2023-01-04
+Home & Kitchen,Furniture,7000,2023-01-04
+Toys,Action Figures,4500,2023-01-01
+Toys,Board Games,3500,2023-01-02
+Toys,Building Sets,5500,2023-01-03
+Beauty,Skincare,5000,2023-01-01
+Beauty,Makeup,6000,2023-01-02
+Beauty,Haircare,4000,2023-01-03
+Electronics,Smartphones,15500,2023-01-05
+Electronics,Laptops,12500,2023-01-06
+Electronics,Smartwatches,5500,2023-01-07
+Home & Kitchen,Furniture,8500,2023-01-05
+Home & Kitchen,Appliances,10000,2023-01-06
+Home & Kitchen,Decor,4200,2023-01-07
+Fashion,Clothing,19500,2023-01-05
+Fashion,Footwear,10500,2023-01-06
+Fashion,Accessories,6500,2023-01-07
+Electronics,Smartphones,16200,2023-01-08
+Electronics,Laptops,11500,2023-01-08
+Fashion,Clothing,21500,2023-01-08
+Fashion,Footwear,9200,2023-01-08
+Home & Kitchen,Furniture,7100,2023-01-08
+Sports,Football,3000,2023-01-01
+Sports,Basketball,3500,2023-01-02
+Sports,Tennis Racket,4000,2023-01-03
+Electronics,Smartphones,15800,2023-01-09
+Electronics,Laptops,13000,2023-01-10
+Electronics,Smartwatches,6000,2023-01-11
+Home & Kitchen,Furniture,8600,2023-01-09
+Home & Kitchen,Appliances,10200,2023-01-10
+Home & Kitchen,Decor,4400,2023-01-11
+Fashion,Clothing,22000,2023-01-09
+Fashion,Footwear,9300,2023-01-10
+Fashion,Accessories,6700,2023-01-11
+Electronics,Smartphones,16500,2023-01-12
+Electronics,Laptops,11800,2023-01-12
+Fashion,Clothing,22500,2023-01-12
+Fashion,Footwear,9400,2023-01-12
+Home & Kitchen,Furniture,7200,2023-01-12
+Furniture,Office Chair,5500,2023-01-01
+Furniture,Desk,7000,2023-01-02
+Furniture,Bookshelf,6000,2023-01-03
+Electronics,Smartphones,16000,2023-01-13
+Electronics,Laptops,12200,2023-01-14
+Electronics,Smartwatches,6500,2023-01-15
+Home & Kitchen,Furniture,8800,2023-01-13
+Home & Kitchen,Appliances,10500,2023-01-14
+Home & Kitchen,Decor,4600,2023-01-15
+Fashion,Clothing,23000,2023-01-13
+Fashion,Footwear,9500,2023-01-14
+Fashion,Accessories,6900,2023-01-15
+Books,Fiction,1500,2023-01-01
+Books,Non-Fiction,2000,2023-01-02
+Books,Science,2500,2023-01-03
+Electronics,Smartphones,17000,2023-01-16
+Electronics,Laptops,12400,2023-01-16
+Fashion,Clothing,23500,2023-01-16
+Fashion,Footwear,9600,2023-01-16
+Home & Kitchen,Furniture,7300,2023-01-16
+Toys,Action Figures,4600,2023-01-04
+Toys,Board Games,3700,2023-01-05
+Toys,Building Sets,5600,2023-01-06
+Electronics,Smartphones,16800,2023-01-17
+Electronics,Laptops,12600,2023-01-18
+Electronics,Smartwatches,7000,2023-01-19
+Home & Kitchen,Furniture,8900,2023-01-17
+Home & Kitchen,Appliances,10800,2023-01-18
+Home & Kitchen,Decor,4800,2023-01-19
+Fashion,Clothing,24000,2023-01-17
+Fashion,Footwear,9700,2023-01-18
+Fashion,Accessories,7100,2023-01-19
+Electronics,Smartphones,17500,2023-01-20
+Electronics,Laptops,12800,2023-01-20
+Fashion,Clothing,24500,2023-01-20
+Fashion,Footwear,9800,2023-01-20
+Home & Kitchen,Furniture,7400,2023-01-20
+Sports,Football,3100,2023-01-04
+Sports,Basketball,3600,2023-01-05
+Sports,Tennis Racket,4100,2023-01-06
+Electronics,Smartphones,17200,2023-01-21
+Electronics,Laptops,13000,2023-01-22
+Electronics,Smartwatches,7500,2023-01-23
+Home & Kitchen,Furniture,9000,2023-01-21
+Home & Kitchen,Appliances,11000,2023-01-22
+Home & Kitchen,Decor,5000,2023-01-23
+Fashion,Clothing,25000,2023-01-21
+Fashion,Footwear,9900,2023-01-22
+Fashion,Accessories,7300,2023-01-23
+Electronics,Smartphones,18000,2023-01-24
+Electronics,Laptops,13200,2023-01-24
+Fashion,Clothing,25500,2023-01-24
+Fashion,Footwear,10000,2023-01-24
+Home & Kitchen,Furniture,7500,2023-01-24
+Electronics,Smartphones,17700,2023-01-25
+Electronics,Laptops,13400,2023-01-26
+Electronics,Smartwatches,8000,2023-01-27
+Home & Kitchen,Furniture,9100,2023-01-25
+Home & Kitchen,Appliances,11200,2023-01-26
+Home & Kitchen,Decor,5200,2023-01-27
+Fashion,Clothing,26000,2023-01-25
+Fashion,Footwear,10100,2023-01-26
+Fashion,Accessories,7500,2023-01-27
+Electronics,Smartphones,18500,2023-01-28
+Electronics,Laptops,13600,2023-01-28
+Fashion,Clothing,26500,2023-01-28
+Fashion,Footwear,10200,2023-01-28
+Home & Kitchen,Furniture,7600,2023-01-28
+Electronics,Smartphones,18200,2023-01-29
+Electronics,Laptops,13800,2023-01-30
+Electronics,Smartwatches,8500,2023-01-31
+Home & Kitchen,Furniture,9200,2023-01-29
+Home & Kitchen,Appliances,11400,2023-01-30
+Home & Kitchen,Decor,5400,2023-01-31
+Fashion,Clothing,27000,2023-01-29
+Fashion,Footwear,10300,2023-01-30
+Fashion,Accessories,7700,2023-01-31
+Electronics,Smartphones,19000,2023-02-01
+Electronics,Laptops,14000,2023-02-01
+Fashion,Clothing,27500,2023-02-01
+Fashion,Footwear,10400,2023-02-01
+Home & Kitchen,Furniture,7700,2023-02-01
+Electronics,Smartphones,18700,2023-02-02
+Electronics,Laptops,14200,2023-02-03
+Electronics,Smartwatches,9000,2023-02-04
+Home & Kitchen,Furniture,9300,2023-02-02
+Home & Kitchen,Appliances,11600,2023-02-03
+Home & Kitchen,Decor,5600,2023-02-04
+Fashion,Clothing,28000,2023-02-02
+Fashion,Footwear,10500,2023-02-03
+Fashion,Accessories,7900,2023-02-04
+Electronics,Smartphones,19500,2023-02-05
+Electronics,Laptops,14400,2023-02-05
+Fashion,Clothing,28500,2023-02-05
+Fashion,Footwear,10600,2023-02-05
+Home & Kitchen,Furniture,7800,2023-02-05
+Electronics,Smartphones,19200,2023-02-06
+Electronics,Laptops,14600,2023-02-07
+Electronics,Smartwatches,9500,2023-02-08
+Home & Kitchen,Furniture,9400,2023-02-06
+Home & Kitchen,Appliances,11800,2023-02-07
+Home & Kitchen,Decor,5800,2023-02-08
+Fashion,Clothing,29000,2023-02-06
+Fashion,Footwear,10700,2023-02-07
+Fashion,Accessories,8100,2023-02-08
