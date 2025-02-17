@@ -10,8 +10,8 @@ This project is an interactive and visually engaging data dashboard built with S
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/Shreenidhi10/Interactive-Data-Dashboard>
+   cd <Interactive-Data-Dashboard>
    ```
 2. Install Python dependencies:
    ```bash
